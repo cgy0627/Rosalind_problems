@@ -12,3 +12,4 @@ for record in SeqIO.parse("rosalind_gc.txt", "fasta"):
 
 print(max_gc_id)
 print(max_gc)
+

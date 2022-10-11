@@ -1,4 +1,4 @@
-# Computing GC Content
+# Computing GC Content 
 
 [문제 링크](https://rosalind.info/problems/gc/)
 
