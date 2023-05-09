@@ -1,4 +1,4 @@
-# Title
+# Fibonacci numbers
 
 [문제 링크](https://rosalind.info/problems/fibo/)
 

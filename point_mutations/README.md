@@ -1,4 +1,4 @@
-# Title
+# Evolution as a Sequence of Mistake
 
 [문제 링크](https://rosalind.info/problems/hamm/)
 
