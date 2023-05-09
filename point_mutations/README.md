@@ -15,9 +15,8 @@
 </thead>
         <tbody><tr>
 <td>GAGCCTACTAACGGGAT
+        
 CATCGTAATGACGGCCT</td>
-</tr>
-<tr>
 <td>7</td>
 </tr>
 </tbody>
