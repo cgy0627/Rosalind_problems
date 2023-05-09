@@ -1,4 +1,4 @@
-# Title
+# Chaining the Amino Acids
 
 [문제 링크](https://rosalind.info/problems/prtm/)
 
