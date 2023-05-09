@@ -16,8 +16,6 @@
 </thead>
         <tbody><tr>
 <td>SKADYEK</td>
-</tr>
-<tr>
 <td>821.392</td>
 </tr>
 </tbody>
