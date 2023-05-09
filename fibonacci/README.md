@@ -16,9 +16,7 @@
 </thead>
         <tbody><tr>
 <td>6</td>
-</tr>
-<tr>
-<td>8</td>
+                <td>8</td>
 </tr>
 </tbody>
       </table>
