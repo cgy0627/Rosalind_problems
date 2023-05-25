@@ -1,4 +1,4 @@
-# Transcribing DNA into RNA
+# Finding a Protein Motif
 
 [문제 링크](https://rosalind.info/problems/mprt/)
 

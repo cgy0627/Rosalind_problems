@@ -1,4 +1,4 @@
-# Chaining the Amino Acids
+# Calculating Protein Mass
 
 [문제 링크](https://rosalind.info/problems/prtm/)
 

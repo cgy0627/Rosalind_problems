@@ -11,18 +11,20 @@
 
 ### 입출력 예
 <table class="table">
-        <thead><tr>
-<th>s</th>
-<th>return</th>
-</tr>
-</thead>
-        <tbody><tr>
-<td>"GATGGAACTTGACTACGTAAATT"</td>
-<td>"GAUGGAACUUGACUACGUAAAUU"</td>
-</tr>
-<tr>
-<td>"AGCT"</td>
-<td>"AGCU"</td>
-</tr>
-</tbody>
-      </table>
+ <thead>
+  <tr>
+   <th>input</th>
+   <th>return</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>"GATGGAACTTGACTACGTAAATT"</td>
+   <td>"AGCT"</td>
+  </tr>
+  <tr>
+   <td>"GAUGGAACUUGACUACGUAAAUU"</td>
+   <td>"AGCU"</td>
+  </tr>
+ </tbody>
+</table>
