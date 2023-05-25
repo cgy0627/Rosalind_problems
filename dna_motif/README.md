@@ -1,4 +1,4 @@
-# Transcribing DNA into RNA
+# Finding a Motif in DNA
 
 [문제 링크](https://rosalind.info/problems/subs/)
 
