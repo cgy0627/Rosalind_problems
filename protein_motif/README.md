@@ -13,24 +13,26 @@
 
 ### 입출력 예
 <table class="table">
-        <thead><tr>
-<th>s</th>
-<th>return</th>
-</tr>
-</thead>
-        <tbody><tr>
-<td>A2Z669
+ <thead>
+  <tr>
+   <th>s</th>
+   <th>return</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>A2Z669
 B5ZC00
 P07204_TRBM_HUMAN
-P20840_SAG1_YEAST</td>
-</tr>
-<tr>
-<td>B5ZC00
+P20840_SAG1_YEAST
+   </td>
+   <td>B5ZC00
 85 118 142 306 395
 P07204_TRBM_HUMAN
 47 115 116 382 409
 P20840_SAG1_YEAST
-79 109 135 248 306 348 364 402 485 501 614</td>
-</tr>
-</tbody>
-      </table>
+79 109 135 248 306 348 364 402 485 501 614
+   </td>
+  </tr>
+ </tbody>
+</table>
