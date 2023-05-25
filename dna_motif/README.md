@@ -12,14 +12,13 @@
 <table class="table">
  <thead>
   <tr>
-   <th>s</th>
+   <th>input</th>
    <th>return</th>
   </tr>
  </thead>
  <tbody>
   <tr>
-   <td>GATATATGCATATACTT
-ATAT
+   <td>GATATATGCATATACTT</br>ATAT
    </td>
    <td>
 2 4 10
