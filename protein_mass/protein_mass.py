@@ -14,3 +14,4 @@ def calc_mass(s):
     print(total)
 
 calc_mass("SKADYEK")
+
